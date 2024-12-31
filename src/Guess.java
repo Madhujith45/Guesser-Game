@@ -167,6 +167,7 @@ public class Guess {
 }
  class Lc {
     public void login() {
+        System.out.println("Welcome to the game:");
         Scanner scan = new Scanner(System.in);
         String username = new String("madhujith005@gmail.com");
         String password = new String("Error@123");
